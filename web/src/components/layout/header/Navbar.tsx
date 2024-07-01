@@ -38,9 +38,9 @@ export function NavbarTitle() {
         href="/"
         passHref
         className="font-robotoMono text-center text-xl font-medium text-white no-underline"
-        aria-label="build-onchain-apps Github repository"
+        aria-label="Get your bike on"
       >
-        BUILD ONCHAIN APPS
+        Get your bike on
       </NextLink>
     </div>
   );
@@ -59,11 +59,11 @@ function Navbar() {
         <div className="flex items-center justify-start gap-8">
           <ul className="hidden items-center justify-start gap-8 md:flex">
             <li className="flex">
-              <NavbarLink href="https://github.com/coinbase/build-onchain-apps" target="_blank">
+              <NavbarLink href="https://github.com/daniamorris/spokecards" target="_blank">
                 <GitHubLogoIcon
                   width="24"
                   height="24"
-                  aria-label="build-onchain-apps Github respository"
+                  aria-label="Spoke Cards Github respository"
                 />
               </NavbarLink>
             </li>

@@ -15,11 +15,11 @@ export default function PaymasterBundlerPage() {
     <>
       <Header />
       <Main>
-        <Banner pageName="Paymaster Bundler" pageUrl="paymaster-bundler" wip />
+        {/* <Banner pageName="Paymaster Bundler" pageUrl="paymaster-bundler" wip /> */}
         <div className="rounded-lg bg-gray-900 px-4 py-6 text-white">
           <PaymasterBundlerApp />
         </div>
-        <Guide />
+        {/* <Guide /> */}
       </Main>
       <Footer />
     </>

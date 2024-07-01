@@ -26,9 +26,9 @@ export default function MintPage() {
     <>
       <Header />
       <Main>
-        <Banner pageName="Mint NFT" pageUrl="mint" />
+        {/* <Banner pageName="Mint NFT" pageUrl="mint" /> */}
         <MintContractDemo />
-        <Guide />
+        {/* <Guide /> */}
       </Main>
       <Footer />
     </>

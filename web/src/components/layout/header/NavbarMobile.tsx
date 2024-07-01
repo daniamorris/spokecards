@@ -39,7 +39,7 @@ export default function NavbarMobile() {
         <div>
           <ul className="mx-2 flex flex-col gap-4">
             <li className="flex">
-              <NavbarLink href="https://github.com/coinbase/build-onchain-apps" target="_blank">
+              <NavbarLink href="https://github.com/daniamorris/spokecards" target="_blank">
                 <GitHubLogoIcon width="24" height="24" />
               </NavbarLink>
             </li>
